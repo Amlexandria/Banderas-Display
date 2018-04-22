@@ -1,0 +1,34 @@
+h1{
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  text-align: center;
+}
+
+.bandera{
+  display: block;
+  height: 20vh;
+  width: 100%;
+  text-align: left;
+  /*padding: 30px 0px;*/
+  vertical-align: middle;
+  font-family: 'Raleway', sans-serif;
+}
+
+.amarilla{
+  background-color: #FFEB3B;
+  color: black;
+}
+
+.gris{
+  background-color: #2C3E50;
+  color: white;
+}
+
+p{
+  padding-left: 1em;
+  padding-top: 1em;
+}
+
+#texto-may{
+  text-transform: uppercase;
+}
