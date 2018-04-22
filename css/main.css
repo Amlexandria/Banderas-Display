@@ -5,13 +5,15 @@ h1{
 }
 
 .bandera{
-  display: block;
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
   height: 20vh;
-  width: 20%;
+  margin-right: 2em;
   text-align: left;
   /*padding: 30px 0px;*/
   vertical-align: middle;
-  font-family: 'Raleway', sans-serif;
+  width: 20%;
+
 }
 
 .amarilla{
